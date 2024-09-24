@@ -1,19 +1,14 @@
 package com.javacode;
 
 
-import com.javacode.javacollection.Filter;
-import com.javacode.javacollection.MathFilter;
+import com.javacode.javacollection.task1.Filter;
+import com.javacode.javacollection.task1.MathFilter;
 import com.javacode.javacollection.task2.CountElements;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
 import java.util.Map;
 
-import static com.javacode.javacollection.FilterArray.filter;
+import static com.javacode.javacollection.task1.FilterArray.filter;
 
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
 

@@ -1,7 +1,7 @@
-package com.javacode.javacollection;
+package com.javacode.javacollection.task1;
 
 /**
- * Фильтр, для проверки (прибавляет каждому числу 10)
+ * Фильтр для проверки (прибавляет каждому числу 10)
  */
 
 public class MathFilter implements Filter {

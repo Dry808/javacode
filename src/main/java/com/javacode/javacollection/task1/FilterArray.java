@@ -1,4 +1,4 @@
-package com.javacode.javacollection;
+package com.javacode.javacollection.task1;
 
 import java.util.ArrayList;
 import java.util.List;
